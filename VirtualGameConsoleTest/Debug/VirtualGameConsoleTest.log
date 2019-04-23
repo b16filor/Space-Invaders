@@ -1,0 +1,27 @@
+﻿  VGCWindowTest.cpp
+  VGCVirtualGameConsoleTest.cpp
+  VGCVectorTest.cpp
+  VGCTimerImpTest.cpp
+  VGCReferencedTest.cpp
+  VGCRectangleTest.cpp
+  VGCRandomizerTest.cpp
+  VGCMessageTest.cpp
+  VGCKeyTest.cpp
+  VGCKeyboardTest.cpp
+  VGCImageImpTest.cpp
+  VGCHandlerTest.cpp
+  VGCGDIPlusTest.cpp
+  VGCFontImpTest.cpp
+  VGCErrorTest.cpp
+  VGCDisplayTest.cpp
+  VGCColorTest.cpp
+  VGCClockTest.cpp
+  VGCBusTest.cpp
+  VGCBootstrapTest.cpp
+  Generating Code...
+  Compiling...
+  VGCAssertTest.cpp
+  VGCAdjustmentTest.cpp
+  Main.cpp
+  Generating Code...
+  VirtualGameConsoleTest.vcxproj -> C:\Users\Hule.Huleback9470\Dropbox\spel i c++\VirtualGameConsole\VirtualGameConsoleTest\Debug\VirtualGameConsoleTest.exe

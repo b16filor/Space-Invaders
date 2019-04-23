@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VirtualGameConsoleDesign", "VirtualGameConsoleDesign", "{754FBD75-6062-4470-802E-7E3815370519}"
+	ProjectSection(SolutionItems) = preProject
+		VirtualGameConsoleDesign\VirtualGameConsole.vsd = VirtualGameConsoleDesign\VirtualGameConsole.vsd
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "VirtualGameConsoleDocumentation", "VirtualGameConsoleDocumentation", "{4AD75A7B-4AEA-4603-B34E-965B9201B8C7}"
+	ProjectSection(SolutionItems) = preProject
+		VirtualGameConsoleDocumentation\VirtualGameConsole.doc = VirtualGameConsoleDocumentation\VirtualGameConsole.doc
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualGameConsole", "VirtualGameConsole\VirtualGameConsole.vcxproj", "{DCB8782E-6B03-4092-A93B-EFA555C023FD}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "VirtualGameConsoleEmpty", "VirtualGameConsoleEmpty\VirtualGameConsoleEmpty.vcxproj", "{B9B6575F-A1FB-42F1-B5A0-D7C64B5301B8}"
+	ProjectSection(ProjectDependencies) = postProject
+		{DCB8782E-6B03-4092-A93B-EFA555C023FD} = {DCB8782E-6B03-4092-A93B-EFA555C023FD}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCB8782E-6B03-4092-A93B-EFA555C023FD}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DCB8782E-6B03-4092-A93B-EFA555C023FD}.Debug|Win32.Build.0 = Debug|Win32
+		{DCB8782E-6B03-4092-A93B-EFA555C023FD}.Release|Win32.ActiveCfg = Release|Win32
+		{DCB8782E-6B03-4092-A93B-EFA555C023FD}.Release|Win32.Build.0 = Release|Win32
+		{B9B6575F-A1FB-42F1-B5A0-D7C64B5301B8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{B9B6575F-A1FB-42F1-B5A0-D7C64B5301B8}.Debug|Win32.Build.0 = Debug|Win32
+		{B9B6575F-A1FB-42F1-B5A0-D7C64B5301B8}.Release|Win32.ActiveCfg = Release|Win32
+		{B9B6575F-A1FB-42F1-B5A0-D7C64B5301B8}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

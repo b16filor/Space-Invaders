@@ -1,0 +1,37 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Release\) contains files shared from another project (VirtualGameConsoleEmpty.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Enemy.cpp
+Enemy.cpp(37): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Enemy.cpp(67): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+  Entity.cpp
+Entity.cpp(8): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+Entity.cpp(12): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Explosion.cpp
+Explosion.cpp(25): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+  Game.cpp
+Game.cpp(20): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(22): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(24): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(85): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(95): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(97): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(102): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Ship.cpp
+Ship.cpp(34): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+Ship.cpp(35): warning C4018: '<': signed/unsigned mismatch
+Ship.cpp(57): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Ship.cpp(59): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Ship.cpp(61): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Ship.cpp(69): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Ship.cpp(71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Ship.cpp(73): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Ship.cpp(75): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+Ship.cpp(84): warning C4018: '<': signed/unsigned mismatch
+  Projectile.cpp
+Projectile.cpp(21): warning C4244: 'argument': conversion from 'const double' to 'int', possible loss of data
+  SuperEnemy.cpp
+SuperEnemy.cpp(27): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Generating code
+  All 1460 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VirtualGameConsoleEmpty.vcxproj -> D:\Users\Filip\Dropbox\spel i c++\VirtualGameConsole\Release\SpaceInvaders.exe
